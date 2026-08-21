@@ -5,19 +5,19 @@
 
 [
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
-](LICENSE)
+(LICENSE)
 [
 
-![Platform](https://img.shields.io/badge/platform-Android-3DDC84.svg)
+![Platform](https://img.shields.io/badge/platform-Android-3DDC84.svg)]
 
-](https://developer.android.com)
+(https://developer.android.com)
 [
 
-![Kotlin](https://img.shields.io/badge/kotlin-Jetpack%20Compose-7F52FF.svg)
+![Kotlin](https://img.shields.io/badge/kotlin-Jetpack%20Compose-7F52FF.svg)]
 
-](https://kotlinlang.org)
+(https://kotlinlang.org)
 
 AttendLock helps students stay on top of their attendance requirements — track classes, calculate safe bunks, get reminders before lectures, and scan your timetable using AI instead of entering it by hand.
 
@@ -64,6 +64,7 @@ AttendLock helps students stay on top of their attendance requirements — track
 📥 Download
 Prebuilt APKs are available on the Releases page.
 ⚠️ This project is in early development — some features may be incomplete or subject to change.
+
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Fork the repo
@@ -73,6 +74,7 @@ Push to the branch (git push origin feature/amazing-feature)
 Open a Pull Request
 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
+
 👤 Author
 Baliram Suryawanshi
 GitHub: @baliram-ls
