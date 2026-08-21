@@ -1,21 +1,10 @@
-# attendlock
 # 📚 AttendLock
 
-**A simple open-source Android attendance tracker for college students.**
+A simple open-source Android attendance tracker for college students.
 
-
-!License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-(LICENSE)
-
-
-!Platform](https://img.shields.io/badge/platform-Android-3DDC84.svg)
-
-(https://developer.android.com)
-
-!Kotlin(https://img.shields.io/badge/kotlin-Jetpack%20Compose-7F52FF.svg)
-
-(https://kotlinlang.org)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Platform](https://img.shields.io/badge/platform-Android-3DDC84.svg)
+![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF.svg)
 
 AttendLock helps students stay on top of their attendance requirements — track classes, calculate safe bunks, get reminders before lectures, and scan your timetable using AI instead of entering it by hand.
 
