@@ -16,7 +16,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.aistudio.attendmate.brmk"
+        applicationId = "com.aistudio.attendLock.brmk"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
