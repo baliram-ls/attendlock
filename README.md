@@ -3,19 +3,17 @@
 
 **A simple open-source Android attendance tracker for college students.**
 
-[
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+!License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 (LICENSE)
-[
 
-![Platform](https://img.shields.io/badge/platform-Android-3DDC84.svg)]
+
+!Platform](https://img.shields.io/badge/platform-Android-3DDC84.svg)
 
 (https://developer.android.com)
-[
 
-![Kotlin](https://img.shields.io/badge/kotlin-Jetpack%20Compose-7F52FF.svg)]
+!Kotlin(https://img.shields.io/badge/kotlin-Jetpack%20Compose-7F52FF.svg)
 
 (https://kotlinlang.org)
 
