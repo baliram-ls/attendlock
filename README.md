@@ -7,7 +7,10 @@ Smart Attendance Tracking for College Students
 AttendLock is an open-source Android attendance companion built to make college attendance management simple, fast, and smarter.
 
 ---
-License: MIT Platform Kotlin
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Platform: Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/)
+[![Language: Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-blue.svg)](https://developer.android.com/compose)
 
 ---
 
