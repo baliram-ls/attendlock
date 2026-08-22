@@ -1,71 +1,136 @@
-# 📚 AttendLock
+📚 AttendLock
 
-A simple open-source Android attendance tracker for college students.
+Smart Attendance Tracking for College Students
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Platform](https://img.shields.io/badge/platform-Android-3DDC84.svg)
-![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF.svg)
+«Track attendance, calculate safe bunks, manage your timetable, and stay on top of your attendance goals — all in one place.»
 
-AttendLock helps students stay on top of their attendance requirements — track classes, calculate safe bunks, get reminders before lectures, and scan your timetable using AI instead of entering it by hand.
+AttendLock is an open-source Android attendance companion built to make college attendance management simple, fast, and smarter.
 
 ---
 
-## ✨ Features
+✨ Features
 
-- **📊 Attendance Analytics** — Real-time overall attendance %, present/absent/bunked/cancelled breakdown, and goal tracking against your target percentage.
-- **🛌 Safe Bunk Calculator** — Instantly see how many classes you can safely miss while staying above your target attendance.
-- **📅 Weekly Timetable** — Add, edit, and manage your class schedule day by day.
-- **🤖 AI Timetable Scanner** — Powered by Gemini AI, scan a photo of your printed/handwritten timetable and auto-import your schedule via OCR.
-- **📖 Subject-wise Tracking** — Per-subject attendance percentage, target status, and quick-mark buttons (Present / Absent / Bunk).
-- **🔔 Class Reminders** — Get notified 10 minutes before class with customizable sound and vibration alerts.
-- **🌗 Dark / Light / System Theme** — Full theming support to match your preference.
-- **💾 Data Backup & Export** — Export/restore your data as JSON, or generate a CSV attendance report.
-- **🔒 Privacy-first** — All data stays on your device; no account required.
-
----
-
-## 🛠️ Tech Stack
-
-- **Language:** Kotlin
-- **UI:** Jetpack Compose
-- **Architecture:** MVVM
-- **AI/OCR:** Gemini API (for timetable scanning)
-- **Notifications:** Android WorkManager / AlarmManager
-- **CI/CD:** GitHub Actions
+- 📊 Attendance Analytics — Track overall and subject-wise attendance.
+- 🎯 Target Tracking — Know whether you're above or below your required percentage.
+- 🏖️ Safe Bunk Calculator — See how many classes you can safely miss.
+- 📅 Weekly Timetable — Add and manage your class schedule.
+- 🤖 AI Timetable Scanner — Scan a timetable image and automatically import classes.
+- ⚡ Quick Attendance Marking — Mark classes as Present, Absent, or Bunk.
+- 🔔 Class Reminders — Get notified before upcoming classes.
+- 🎨 Dark / Light / System Theme — Choose your preferred appearance.
+- 💾 Backup & Export — Backup and export your attendance data.
+- 🔐 Privacy First — Your attendance data stays on your device.
+- 🚫 No Account Required — No sign-up needed.
 
 ---
 
-## 🚀 Getting Started
+📱 Screenshots
+## 📱 Screenshots
 
-### Prerequisites
-- Android Studio (latest stable)
+<p align="center">
+  <img src="APP%20SS1.jpeg" width="220">
+  <img src="APP%20SS2.jpeg" width="220">
+</p>
+
+<p align="center">
+  <img src="APP%20SS3.jpeg" width="220">
+  <img src="APP%20SS4.jpeg" width="220">
+</p>
+
+🤖 AI Timetable Scanner
+
+Manually entering an entire timetable can be tedious.
+
+AttendLock uses Gemini AI to analyze a timetable image and convert it into structured class information.
+
+📸 Timetable Image
+       ↓
+🤖 Gemini AI
+       ↓
+🔍 Recognition
+       ↓
+📅 Structured Timetable
+       ↓
+✨ Automatic Import
+
+---
+
+🛠️ Tech Stack
+
+Android
+
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Android Architecture Components
+- WorkManager / AlarmManager
+- Android Notifications
+
+AI
+
+- Google Gemini API
+- OCR / Timetable Recognition
+
+Development
+
+- Android Studio
 - JDK 17+
-- Android SDK 24+ (minSdk), targeting SDK 36
+- Android SDK 24+
+- GitHub Actions
 
-### Setup
+---
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/baliram-ls/attendlock.git
+🚀 Getting Started
 
-📥 Download
-Prebuilt APKs are available on the Releases page.
-⚠️ This project is in early development — some features may be incomplete or subject to change.
+Requirements
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Fork the repo
-Create your feature branch (git checkout -b feature/amazing-feature)
-Commit your changes (git commit -m 'Add amazing feature')
-Push to the branch (git push origin feature/amazing-feature)
-Open a Pull Request
+- Android Studio
+- JDK 17+
+- Android SDK 24+
+- Android device or emulator
+
+Clone
+
+git clone https://github.com/baliram-ls/attendlock.git
+
+Open the project in Android Studio, let Gradle sync, and run the app on your device or emulator.
+
+«⚠️ AttendLock is currently under active development.»
+
+---
+
+🔐 Privacy
+
+AttendLock follows a privacy-first approach.
+
+- Attendance data stays on your device.
+- No account is required.
+- No unnecessary cloud database.
+- User controls data export and backup.
+- API keys and secrets should never be committed to GitHub.
+
+«Your attendance is your data.»
+
+---
+
 📄 License
-This project is licensed under the MIT License — see the LICENSE file for details.
 
-👤 Author
+AttendLock is licensed under the MIT License.
 
-Baliram Suryawanshi
+See the ""LICENSE"" (LICENSE) file for details.
 
-GitHub:
+---
 
-@baliram-ls
+👨‍💻 Author
+
+Baliram
+
+CSE Student • Android Developer • Open Source Enthusiast
+
+Built with ❤️ and Kotlin.
+
+---
+
+<p align="center">⭐ If you find AttendLock useful, consider starring the repository.
+
+</p>
