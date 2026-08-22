@@ -27,16 +27,26 @@ AttendLock is an open-source Android attendance companion built to make college 
 📱 Screenshots
 ## 📱 Screenshots
 
-<p align="center">
-  <img src="APP%20SS1.jpeg" width="220">
-  <img src="APP%20SS2.jpeg" width="220">
-</p>
+## 📱 Screenshots
 
-<p align="center">
-  <img src="APP%20SS3.jpeg" width="220">
-  <img src="APP%20SS4.jpeg" width="220">
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="APP%20SS1.jpeg" width="300">
+    </td>
+    <td align="center">
+      <img src="APP%20SS2.jpeg" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="APP%20SS3.jpeg" width="300">
+    </td>
+    <td align="center">
+      <img src="APP%20SS4.jpeg" width="300">
+    </td>
+  </tr>
+</table>
 🤖 AI Timetable Scanner
 
 Manually entering an entire timetable can be tedious.
@@ -44,13 +54,13 @@ Manually entering an entire timetable can be tedious.
 AttendLock uses Gemini AI to analyze a timetable image and convert it into structured class information.
 
 📸 Timetable Image
-       ↓
+       -->
 🤖 Gemini AI
-       ↓
+       -->
 🔍 Recognition
-       ↓
+       -->
 📅 Structured Timetable
-       ↓
+       -->
 ✨ Automatic Import
 
 ---
